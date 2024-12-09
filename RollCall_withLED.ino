@@ -28,14 +28,7 @@ struct Config {
 
 // Network Credentials
 struct Credentials {
-    static constexpr char WIFI_SSID[] = "Q8668";
-    static constexpr char WIFI_PASSWORD[] = "fuckofff";
 
-    static constexpr char GOOGLE_PROJECT_ID[] = "rollcall-441720";
-    static constexpr char GOOGLE_CLIENT_EMAIL[] = "attendanceofficer@rollcall-441720.iam.gserviceaccount.com";
-    static constexpr char GOOGLE_PRIVATE_KEY[] = "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE036ODNjxouyp\nOxTi969fHHp5MvV02Dxk06TyA0H2cSL9Kzhrm/eQFNL3ElwyJC8G3+2J4lA+IOkv\nkj6yvsZxgAFBl7cjr+gmGaWc/tVAXCl1DsOrjZEkR25MIHGclYsEVo+1ZtLju0Ox\nzrU5TXcqNCVl1Qn4f2dS27QWhX6mhHUg5uS3r1uiD9pdBpvdXjmGkRKVPLVui4MD\nhshDW6q612o5xRG9Lk5kTMnhM9wNG42FwwzK6p1JtppmjQiOO6iEQFSDBEN0YWFC\nM8Ov9j8lY0/SaN3E+DEH9V5slIrjQ1IuSgWC1oRfZn/VfGU2mVrib3oX8syD85jt\npdZCJm//AgMBAAECggEAFOp2AA8PcsYh024ALzUA7DYw3EufrTYEB6GSCAHJSFtc\ny33Z9ggnS6awMH9BUDbAz0CL6TjP1s+qgq/40l0sO114mgl5oGTjYkEcH03ZSDND\nAznOw0k89kJST0FXXBDBgB7ZZf6Hme8JfONUJhhm+b4m3JEXXn0zc/5S6d3FHVlg\nVsMGl0faFVrCtIDja6jNinfkmFQACTOdLwbH4wNFwUsc2eZrrBGvMucgzL0BB8od\nZRNYoCsDbL26FMkV5c6nL7SxLSeo4+qHDrLCAgPdrprINvkwxhQ5cBx5EpIu/JdJ\n0qQ0WJ3yjKCmJI16JurIpC/2j2EQ5gfRV7lTdPTgmQKBgQDpRewpe6y6M1uHVjlI\nWMlsKI85lxH51Hx854O3Coz72Mb+CA6LroXZnwQ8oFl51W25mCMjQnncLkD2l/11\nHD1ezwl80X+5ql0suEBJ4Jw7/XI9biyQUSF1/vlCzrwx5JFVKcHYAmea/jfdF0pS\nBL4g2IqC8zajAG/2HGw4bbKoowKBgQDYAIux38p2To75qy1w2xD6Yv2OiTpRQFsT\nZH0+hCgpkzval6jQ7dTmW6a9Ea/DqQNYq1JJ7qSZXivJLxVHccbq0gZ472Bdsbph\n5zCzwAP+7Hk4dUOzSevyJgoq3q2WyEhBSyHXh5QB4GWWEOeKBW3++w70AaTofwpB\n2jTUzF2E9QKBgDM0qByLC2VsNKFGqhhZdQ2K8bWglc+Tdygr4dviMwRtl3DX7+l1\ni+gzYci1Ii7+TLG61au9weY1OQloX7i/VDFlnR2LF1B4Ny/D2kjdRy5b+iHF935O\ncNvn9mtV2jXRiJ17JxP1oyyAtV6Q6D2M0PeA0RbhsJKjW/BYWOEiI1+lAoGAH5Wc\n16qgoUIFeA6Gu3zc86/r4Z7BT0Y4yxIjmjOa59FmrCUHA13zhqeaLwVaDSM2oQ2U\nH8lsehyiDG39D5BchNOnLKHcFnc5iL1UisQmEW2koBPNjXbesG7Nh8091tF8d0e0\nMB7cDpYwZIwePzliBynQ2u8unOyOpGhy1zb26c0CgYEAyhtl7MxiBxVYijHP/zZW\nhaYyobt/lmrJnm90TT7OaRAz9l11EMI7p0U06zUdd07XpUFsxkrR3Sq+/F5SZPi3\nM+1hzCokZFg8cH48KncrDU37rSd2PigeIe4035aLu6xgOHzbKBCUFGccMBVzANZq\n+X0/K4/8defS1NAgY4ow5GA=\n-----END PRIVATE KEY-----\n";
-    
-    static constexpr char SPREADSHEET_ID[] = "1zwNPWRQ1-pmZrw9XcCbqFkKCSCy_TyJliiqtH1_RV2E";
 };
 
 // Student Database
